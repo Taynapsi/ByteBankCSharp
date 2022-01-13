@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7e94f38-a412-47b1-99c4-aa66769a95a1": {
+      "ProjectGuid": "c7e94f38-a412-47b1-99c4-aa66769a95a1",
+      "DisplayName": "01-ByteBank",
+      "ColorIndex": 0
+    },
+    "b5c47943-8bda-437d-85f4-ea84e71e8307": {
+      "ProjectGuid": "b5c47943-8bda-437d-85f4-ea84e71e8307",
+      "DisplayName": "02-ByteBank",
+      "ColorIndex": 1
+    },
+    "497d4927-d3ef-4951-bd1e-024889581632": {
+      "ProjectGuid": "497d4927-d3ef-4951-bd1e-024889581632",
+      "DisplayName": "03-ByteBank",
+      "ColorIndex": 2
+    },
+    "a3904713-0f6e-4590-9250-fbf4775d9085": {
+      "ProjectGuid": "a3904713-0f6e-4590-9250-fbf4775d9085",
+      "DisplayName": "04-ByteBank",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
