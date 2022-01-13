@@ -20,7 +20,17 @@
       "ProjectGuid": "a3904713-0f6e-4590-9250-fbf4775d9085",
       "DisplayName": "04-ByteBank",
       "ColorIndex": 3
+    },
+    "68f4b10d-368f-4e07-aca1-a48ea5d73bf1": {
+      "ProjectGuid": "68f4b10d-368f-4e07-aca1-a48ea5d73bf1",
+      "DisplayName": "05-ByteBank",
+      "ColorIndex": 4
+    },
+    "d2737f6c-a831-4a12-b37d-f9a288823807": {
+      "ProjectGuid": "d2737f6c-a831-4a12-b37d-f9a288823807",
+      "DisplayName": "06-ByteBank",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

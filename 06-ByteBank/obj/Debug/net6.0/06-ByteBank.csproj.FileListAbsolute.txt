@@ -1,0 +1,15 @@
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.exe
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.deps.json
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.runtimeconfig.json
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.dll
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\bin\Debug\net6.0\ref\06-ByteBank.dll
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.pdb
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfoInputs.cache
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfo.cs
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.dll
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\ref\06-ByteBank.dll
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.pdb
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.genruntimeconfig.cache
+C:\Users\tayna.malaquias\Desktop\Programacao\CSharp\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.AssemblyReference.cache
